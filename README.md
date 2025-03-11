@@ -1,5 +1,4 @@
 # searxng-docker
-test
 Create a new SearXNG instance in five minutes using Docker
 
 ## What is included?
